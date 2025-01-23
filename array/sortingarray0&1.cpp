@@ -17,6 +17,12 @@ void sortarray(int arr[], int size){
     
     cout << "zero are "<<zerocnt<<endl;
     cout<< "one are "<< oncnt<< endl;
+
+//    using fill function 
+// fill method :( arr , array last index , value  ) 
+//    fill( arr, arr+zerocnt ,0);
+//    fill( arr+zerocnt, arr+size  ,1);
+   
     
     // inserting back 
     int i =0;
