@@ -22,8 +22,8 @@ void sortarray(int arr[], int size){
 // fill method :( arr , array last index , value  ) 
 //    fill( arr, arr+zerocnt ,0);
 //    fill( arr+zerocnt, arr+size  ,1);
-   
     
+        
     // inserting back 
     int i =0;
     for ( ; i < zerocnt ; i++){
